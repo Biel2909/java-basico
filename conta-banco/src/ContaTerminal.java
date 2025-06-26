@@ -1,7 +1,9 @@
 import java.util.Scanner;
 public class ContaTerminal {
     public static void main(String[] args) throws Exception {
-        String numAgencia, nome;
+        //teste código é um exemplo de como criar uma conta bancária simples em Java
+        //com informações como número da agência, nome do cliente, número da conta e saldo.
+        String numAgencia, nome;    
         int num;
         double saldo; 
         Scanner leia = new Scanner(System.in);
